@@ -33,7 +33,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
 
 ---    
 <h1 align="center">
-  <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/ComputerScience.jpg">
+  <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/ComputerScienceU.jpg">
 </h1>
 
 ## Top Universities Computer Science
