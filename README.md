@@ -36,7 +36,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
   <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/ComputerScienceU.jpg">
 </h1>
 
-## Top Universities Computer Science
+## Top Universities Computer Science (In progress)
 
 Computer Science studies the fundamentals of computation and computation’s interaction with the world. Computer scientists develop new algorithms, invent new systems and theories that empower people, and advance the science of computing. The dataset encompasses the premier universities in the field of computer science, arranged by subject, and ranked from 2020 to 2023, exhibiting the alterations in their rankings and scores throughout the years. <br/>
 
@@ -51,7 +51,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
   <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/spotify-logo.jpg">
 </h1>
 
-## Spotify 1 Million Tracks
+## Spotify 1 Million Tracks (In progress)
 
 This dataset was extracted from the Spotify platform using the Python library "Spotipy", which allows users to access music data provided via APIs. The dataset collected includes about 1 Million tracks with 19 features between 2000 and 2023. Also, there is a total of 61,445 unique artists and 82 genres in the data. <br/>
 This clean data has been prepared and utilized for research purposes. Its significance lies in its potential to unravel patterns and predict song popularity prior to its release. <br/>
