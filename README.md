@@ -24,6 +24,7 @@ The purpose of this repository is to provide examples involving the study of mac
 
 The 2014 killing of Michael Brown in Ferguson, Missouri, began the protest movement culminating in Black Lives Matter and an increased focus on police accountability nationwide. Since Jan. 1, 2015, The Washington Post has been compiling a database of every fatal shooting in the US by a police officer in the line of duty. <br/>
 The Washington Post is tracking more than a dozen details about each killing - including the race, age and gender of the deceased, whether the person was armed, and whether the victim was experiencing a mental-health crisis. They have gathered this information from law enforcement websites, local new reports, social media, and by monitoring independent databases such as "Killed by police" and "Fatal Encounters". <br/>
+
 In this exercise, our objective is to apply the concepts of supervised learning, using them to classify whether individuals exhibited signs of mental illness or not and to assess the effectiveness of the models.
 
 ### Data
@@ -38,6 +39,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
 ## Top Universities Computer Science
 
 Computer Science studies the fundamentals of computation and computation’s interaction with the world. Computer scientists develop new algorithms, invent new systems and theories that empower people, and advance the science of computing. The dataset encompasses the premier universities in the field of computer science, arranged by subject, and ranked from 2020 to 2023, exhibiting the alterations in their rankings and scores throughout the years. <br/>
+
 In this exercise, the concepts of supervised learning will be employed utilizing the regression method to visualize the university's reputation.
 
 ### Data
@@ -53,6 +55,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
 
 This dataset was extracted from the Spotify platform using the Python library "Spotipy", which allows users to access music data provided via APIs. The dataset collected includes about 1 Million tracks with 19 features between 2000 and 2023. Also, there is a total of 61,445 unique artists and 82 genres in the data. <br/>
 This clean data has been prepared and utilized for research purposes. Its significance lies in its potential to unravel patterns and predict song popularity prior to its release. <br/>
+
 In this exercise, the principles of unsupervised learning will be applied, employing algorithms to discern patterns in the selected songs.
 
 ### Data
