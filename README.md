@@ -47,7 +47,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
 
 --- 
 <h1 align="center">
-  <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/Spotify.jpg"> width="400px"
+  <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/Spotify.jpg"  width="400px">
 </h1>
 
 ## Spotify 1 Million Tracks
