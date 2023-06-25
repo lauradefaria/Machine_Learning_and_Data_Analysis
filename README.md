@@ -47,7 +47,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
 
 --- 
 <h1 align="center">
-  <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/Spotify.jpg"  width="400px">
+  <img src="https://github.com/lauradefaria/Machine_Learning_and_Data_Analysis/blob/main/imgs/Spotify.jpg"  height: 1800px">
 </h1>
 
 ## Spotify 1 Million Tracks
@@ -65,7 +65,7 @@ All the data used in this project was downloaded from the <a href="https://www.k
 
  <a href="https://www.linkedin.com/in/lauradefaria/" target="_blank">**Laura de Faria Maranhão Ayres**</a>
 :---: 
-<img src="imgs/laura.JPG" width="100px"> </img>
+<img src="imgs/laura.jpg" width="100px"> </img>
 <a href="http://github.com/lauradefaria" target="_blank">`github.com/lauradefaria`</a>
 
 ---   
